@@ -89,7 +89,7 @@ function makeInvisible(domElement){
     element.style.opacity = "0%";
 }
 
-makeInvisible("h1");
+makeInvisible("#thing-c");
 
 //========================================================================
 
